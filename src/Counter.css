@@ -1,0 +1,23 @@
+body{
+    background-color: #B2B18C;
+}
+.App h1{
+    color: peru;
+    font-size: 100px;
+}
+
+.App button{
+    background-color: #DAD7A0;
+  border: 0;
+  width: 150px;
+  height: 70px;
+  padding: 0 20px;
+  margin: 20px;
+  font-size: 60px;
+  border-radius: 5px;
+  color: black;
+  cursor: pointer;
+}
+.App button{
+    transform: translateY(-3px);
+}
